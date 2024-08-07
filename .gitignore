@@ -1,0 +1,13 @@
+# exclude .DS_Store
+.DS_Store
+
+# exclude ppt file
+*.key
+*.pptx
+
+# exclude pdf file
+*.pdf
+
+# exclude /.idea/
+/.idea/*
+
