@@ -11,9 +11,11 @@
 경우도 존재한다.  
 이러한 경우를 "**충돌**"한다고 한다.  
 
+---
 ## Example
-![hash-example-image](https://github.com/user-attachments/assets/d88084b2-e85f-4b00-b83e-f47661c3de5e){: .align-center}  
+![hash-example-image](https://github.com/user-attachments/assets/d88084b2-e85f-4b00-b83e-f47661c3de5e)  
 
+---
 ## 문제를 통한 Hash function의 이해
 [**백준 3052번 문제**](https://www.acmicpc.net/problem/3052)  
   
