@@ -14,17 +14,18 @@
     $$
     
     - 대부분 Footer는 잘 사용되지 않는다. 아래 예시를 통해 확인해보자.
-          
-        $$
-        Ethernet\ +IPv4\ +TCP\ +HTTP
-        $$
-          
-        1. HTTP 라는 프로토콜을 Payload로 해서 TCP를 Header로 붙임  
-        2. HTTP + TCP를 Payload로 해서 IPv4를 Header로 붙임  
-        3. HTTP + TCP + IPv4를 Payload로 해서 Ethernet을 Header로 붙임
-        
+
+    $$
+    Ethernet\ +IPv4\ +TCP\ +HTTP
+    $$
+
+
+    1. HTTP 라는 프로토콜을 Payload로 해서 TCP를 Header로 붙임  
+    2. HTTP + TCP를 Payload로 해서 IPv4를 Header로 붙임  
+    3. HTTP + TCP + IPv4를 Payload로 해서 Ethernet을 Header로 붙임
+    
         위와 같이 Payload에 Header를 붙이는 과정을 **캡슐화**라고 한다!
-        
+    
         ***캡슐화**: 여러 프로토콜을 이용해서 최종적으로 보낼 때 패킷을 만드는 과정
 
     - 캡슐화할 때 하위 계층이 붙고 상위 계층이 붙을 순 없다.
