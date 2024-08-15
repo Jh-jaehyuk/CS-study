@@ -14,11 +14,11 @@
     $$
     
     - 대부분 Footer는 잘 사용되지 않는다. 아래 예시를 통해 확인해보자.
-        
+          
         $$
         Ethernet\ +IPv4\ +TCP\ +HTTP
         $$
-        
+          
         1. HTTP 라는 프로토콜을 Payload로 해서 TCP를 Header로 붙임  
         2. HTTP + TCP를 Payload로 해서 IPv4를 Header로 붙임  
         3. HTTP + TCP + IPv4를 Payload로 해서 Ethernet을 Header로 붙임
