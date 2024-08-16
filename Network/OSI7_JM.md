@@ -1,6 +1,6 @@
 - 네트워킹에 대한 표준을 7계층으로 나눈것
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/4dc15045-41e4-4275-9346-874d32fcea68/image.png)
+![osi7](https://github.com/user-attachments/assets/0fcd32e9-1b00-43db-b19c-590ed73dfda4)
     
     - 응용계층 : 최상위 계층으로 사용자가 네트워크에 접속하는 것을 가능하게 한다.
     - 표현계층 : 송,수신자가 공통으로 이해 할 수 있도록 정보의 데이터 표현방식을 바꾸는 기능을 담당한다.

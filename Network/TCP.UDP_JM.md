@@ -3,7 +3,7 @@
 - 신뢰성이 높다 → 상대방이 받았는지 못 받았는지 확인
 - 대신 느리다
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/3df2bc14-6f5f-491d-b167-a664f571216f/image.png)
+![tcp](https://github.com/user-attachments/assets/809a1f7c-91c9-4b66-a24a-a7adc01e0740)
 
 - **SYN:**Connection을 생성할 때 사용하는 flag
 - **FIN:**Connection을 끊을 때 사용하는 flag
@@ -11,15 +11,15 @@
 
 ### connection 생성(3way handshake)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/cd3f8dff-7809-4a19-900e-5105620801a5/image.png)
+![3way](https://github.com/user-attachments/assets/f03e7eb3-90c8-443e-b5f2-289e637a89c2)
 
 ### Data 전송
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/6060f044-7e0f-429a-a925-b9d9da9e95d3/image.png)
+![3wayy](https://github.com/user-attachments/assets/13b4a0c4-0a86-4cae-a0e3-a567c67581f7)
 
 ### **Connection 해제(4way handshake)**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/fbdbd041-1692-482b-9c3d-ab3b49ca4638/image.png)
+![4way](https://github.com/user-attachments/assets/3cb50763-1cad-4a00-ba8d-baa9604171b3)
 
 - 데이터 흐름제어(수신자 버퍼 오버플로우 방지)
 - 혼잡 제어

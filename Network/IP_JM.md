@@ -4,7 +4,7 @@
     - 이렇게 어떤 데이터를 어떤 걸로 읽을 것인가 하는 확장자도 하나의 프로토콜
 - 인터넷에서 주고받는 약속
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/2152f8ab-4fe6-4713-9acc-a3121951cc94/image.png)
+![host](https://github.com/user-attachments/assets/f50b6e03-225e-44e2-8732-738e417c5460)
 
 - 네트워크에서 각 컴퓨터들을 호스트라고 한다.
 - 통신을 할 때 내가 어디로 보내는지 알려주는 것이 IP가 하는 역할이다.

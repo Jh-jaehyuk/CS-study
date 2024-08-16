@@ -5,7 +5,7 @@
     - DNS를 통해 naver에 가서 IP주소를 가지고 돌아오고 나는 이 주소로 연결을 하게 됨
 - 도메인 체계
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4fba3f0c-dcc6-460f-b219-0fcf2220fbcf/8e9c8a1b-d71e-4a1f-bf8f-2bf72f2167c9/image.png)
+![domain](https://github.com/user-attachments/assets/3e6ea47c-605e-4e79-96d7-c55a7ec8affa)
 
 - naver.com을 검색하면 맨 뒤에서 시작
     - 루트에서 com을 검색해서 naver를 찾음
