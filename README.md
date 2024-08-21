@@ -26,6 +26,7 @@ table 그릴 예정
 2. **[Data Structure (자료구조)](./Data%20Structure)**
   * Queue
   * Stack
+  * Linked List
   * Graph(예정)
     
 3. **Languages (언어)**
