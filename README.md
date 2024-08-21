@@ -16,14 +16,14 @@ table 그릴 예정
 3. 매주 랜덤으로 3명씩 뽑아서 발표를 진행하도록 합니다.
 
 ## Contents
-1. **[Networks (네트워크)](.\Network")**
+1. **[Networks (네트워크)](./Network)**
   * What is Networks
   * What is Packet
   * OSI 7 Layers
   * API
   * RestAPI
    
-2. **[Data Structure (자료구조)](".\Data%20Structure")**
+2. **[Data Structure (자료구조)](./Data%20Structure)**
   * Queue
   * Stack
   * Graph(예정)
