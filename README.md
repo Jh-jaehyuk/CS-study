@@ -3,8 +3,8 @@
 **Repository for Computer science study.** 
   
 ## Contributors
-<a href="https://github.com/jh-jaehyuk/cs-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jh-jaehyuk/cs-study" />
+<a href="https://github.com/Jh-jaehyuk/cs-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Jh-jaehyuk/cs-study" />
 </a>
 
 ## Study members
