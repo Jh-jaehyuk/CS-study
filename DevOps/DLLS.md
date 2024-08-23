@@ -48,7 +48,7 @@ pem키 certificate 등의 파일에서 허락된 socket client만 통신을 하�
     **(** validation에서 구성한 것들은 소켓 통신이 되는지 확인용이지 우리가 최종적으로 
     사용할 폴더는 아님! 다만 validation에서 했던 빌드업이 최종에 그대로 적용 됨**)**
 
-    <img src="image/aws_root.png">
+    ![aws_root](https://github.com/user-attachments/assets/90ae4ecb-2d0c-4d5f-ad6a-9c8fba553655)  
 
     validation 디렉토리에 가보면 3가지 디렉토리가 존재
 
@@ -103,7 +103,7 @@ pem키 certificate 등의 파일에서 허락된 socket client만 통신을 하�
     **37373 PORT를 추가시켜야 함! (추가 안하면 37373 통신이 막힘)**
 
     향후 이 부분의 ip는 우리가 사용할 DLLS IP주소가 적혀야 함
-    <img src = "image/inbound.png">
+    <img src = "https://github.com/user-attachments/assets/83130497-c90b-4786-adc1-b6851a9ffba1">  
     </details>
 
 </details>
@@ -129,7 +129,7 @@ python3 -m main.client
 
 둘 다 실행하면 아래와 같이 소켓 통신으로 송수신이 가능해진다.
 
-<img src="image/송수신.png">
+<img src="https://github.com/user-attachments/assets/0ef4ba71-c768-41af-86f8-a392cfd1fafc">  
 
 사실 굳이 fastapi를 거치지 않더라도 소켓 서버 ↔ 소켓 클라이언트 간 통신은 가능함
 
