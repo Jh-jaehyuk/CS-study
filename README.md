@@ -3,9 +3,10 @@
 **Repository for Computer science study.** 
   
 ## Contributors
-<a href="https://github.com/Jh-jaehyuk/cs-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Jh-jaehyuk/cs-study" />
+<a href="https://github.com/jh-jaehyuk/CS-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jh-jaehyuk/CS-study" />
 </a>
+
 
 ## Study members
 | 한재혁 | 김지민 | 이호준 | 정아람 | 최인헌 |
