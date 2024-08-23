@@ -25,21 +25,28 @@
 
 ## Contents
 1. **[Networks (네트워크)](./Network)**
-  * What is Networks
-  * What is Packet
-  * OSI 7 Layers
-  * API
-  * RestAPI
+   * What is Networks
+   * What is Packet
+   * OSI 7 Layers
+   * API
+   * RestAPI
    
 2. **[Data Structure (자료구조)](./Data%20Structure)**
-  * Queue
-  * Stack
-  * Linked List
-  * Graph(예정)
+   * Queue
+   * Stack
+   * Linked List
+   * Graph(예정)
     
-3. **Languages (언어)**
-  * Python
-  * C / C++
+3. **[Languages (언어)](./Languages)**
+   * Python
+   * C(C++)
 
-4. **DevOps**
-  * CI/CD
+4. **[DevOps](./DevOps)**
+   * CI/CD
+   * DLLS
+
+5. **[OS (운영 체제)](./OS)**  
+   * What is OS
+   * Process & Thread
+   * Memory Structure
+   * CPU Scheduling
