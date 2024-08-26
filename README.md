@@ -3,9 +3,10 @@
 **Repository for Computer science study.** 
   
 ## Contributors
-<a href="https://github.com/Jh-jaehyuk/cs-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Jh-jaehyuk/cs-study" />
+<a href="https://github.com/jh-jaehyuk/CS-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jh-jaehyuk/CS-study" />
 </a>
+
 
 ## Study members
 | 한재혁 | 김지민 | 이호준 | 정아람 | 최인헌 |
@@ -13,10 +14,10 @@
 | <img width="160px" src="https://github.com/user-attachments/assets/c7077fd6-1e21-415b-99fe-f00eb094da79" /> | <img width="160px" src=https://github.com/user-attachments/assets/4959d3e9-ba05-476b-ba67-69d4792756ad /> | <img width="160px" src=https://github.com/user-attachments/assets/2827562a-6e13-4670-9b85-c2d93d81759a /> | <img width="160px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/b24cae67-75d6-48aa-a94e-e847a769f2c0" /> | <img width="160px" src=https://github.com/user-attachments/assets/f16b7145-8c37-4a05-a6b1-2c56ac5e7314 />
 | [@Jh-jaehyuk](https://github.com/Jh-jaehyuk) | [@jimin9703](https://github.com/jimin9703) | [@HoJ00n2](https://github.com/HoJ00n2) | [@Ah-ram](https://github.com/Ah-ram) | [@ih9511](https://github.com/ih9511) |
 
-| 김용현 | 공백1 | 공백2 | 공백3 | 공백4 |
+| 김용현 | 이민재 | 공백2 | 공백3 | 공백4 |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| <img width="160px" src="https://github.com/user-attachments/assets/9f50e7d9-8b34-404e-8582-78477ade903d" /> | <img width="160px" src=https://github.com/user-attachments/assets/4959d3e9-ba05-476b-ba67-69d4792756ad /> | <img width="160px" src=https://github.com/user-attachments/assets/2827562a-6e13-4670-9b85-c2d93d81759a /> | <img width="160px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/b24cae67-75d6-48aa-a94e-e847a769f2c0" /> | <img width="160px" src=https://github.com/user-attachments/assets/f16b7145-8c37-4a05-a6b1-2c56ac5e7314 />
-| [@younghyen7956](https://github.com/younghyen7956) | [@jimin9703](https://github.com/jimin9703) | [@HoJ00n2](https://github.com/HoJ00n2) | [@Ah-ram](https://github.com/Ah-ram) | [@ih9511](https://github.com/ih9511) |
+| <img width="160px" src="https://github.com/user-attachments/assets/9f50e7d9-8b34-404e-8582-78477ade903d" /> | <img width="160px" src=https://github.com/user-attachments/assets/09d70752-6b73-4c54-aeec-fff73567ca7e /> | <img width="160px" src=https://github.com/user-attachments/assets/2827562a-6e13-4670-9b85-c2d93d81759a /> | <img width="160px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/b24cae67-75d6-48aa-a94e-e847a769f2c0" /> | <img width="160px" src=https://github.com/user-attachments/assets/f16b7145-8c37-4a05-a6b1-2c56ac5e7314 />
+| [@younghyen7956](https://github.com/younghyen7956) | [@Meue-L](https://github.com/Meue-L) | [@HoJ00n2](https://github.com/HoJ00n2) | [@Ah-ram](https://github.com/Ah-ram) | [@ih9511](https://github.com/ih9511) |
 
 ## Rules
 1. 개인 사정 및 캠퍼스 사정으로 인해 스터디가 불가능하더라도, 자료는 업로드 해야 합니다.
@@ -25,21 +26,28 @@
 
 ## Contents
 1. **[Networks (네트워크)](./Network)**
-  * What is Networks
-  * What is Packet
-  * OSI 7 Layers
-  * API
-  * RestAPI
+   * What is Networks
+   * What is Packet
+   * OSI 7 Layers
+   * API
+   * RestAPI
    
 2. **[Data Structure (자료구조)](./Data%20Structure)**
-  * Queue
-  * Stack
-  * Linked List
-  * Graph(예정)
+   * Queue
+   * Stack
+   * Linked List
+   * Graph(예정)
     
-3. **Languages (언어)**
-  * Python
-  * C / C++
+3. **[Languages (언어)](./Languages)**
+   * Python
+   * C(C++)
 
-4. **DevOps**
-  * CI/CD
+4. **[DevOps](./DevOps)**
+   * CI/CD
+   * DLLS
+
+5. **[OS (운영 체제)](./OS)**  
+   * What is OS
+   * Process & Thread
+   * Memory Structure
+   * CPU Scheduling
