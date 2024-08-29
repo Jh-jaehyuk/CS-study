@@ -1,6 +1,6 @@
 # CAPTCHA
 
-<img src="./images/chaptcha_image1.png" width="700" height="200" alt="CAPTCHA 이미지1">
+![chaptcha_image1](https://github.com/user-attachments/assets/f40f2508-5303-4bfd-97d5-db5a3aa63f9b)  
 
 # CAPTCHA
 
@@ -20,7 +20,7 @@
 
 ### 1. 문자형 CAPTCHA
 
-<img src="./images/chaptcha_image2.png" width="700" height="200" alt="CAPTCHA 이미지2">
+![chaptcha_image2](https://github.com/user-attachments/assets/ec73a095-b0e3-4bd1-b0df-00ed06efeccb)  
 
 ##### 이미지로 표시된 글자로 구성되어 있고 요구하는 내용을 입력하는 형태
 
@@ -32,8 +32,8 @@
 
 ##### 그리고 이런 문자를 활용한 CAPTCHA는 사용자에게 욕을 선사 하기도 한다.
 
-<img src="./images/chaptcha_image3.jpg" width="700" height="200" alt="CAPTCHA 이미지3">
-<img src="./images/chaptcha_image4.jpg" width="700" height="200" alt="CAPTCHA 이미지4">
+![chaptcha_image3](https://github.com/user-attachments/assets/b4b14cf3-59e9-446a-beda-e7355b4b81b8)  
+![chaptcha_image4](https://github.com/user-attachments/assets/9dc5bc64-a343-433d-9ece-764c1ed343d6)
 
 ### 2. 지능형 CAPTCHA
 
@@ -45,12 +45,12 @@
 
 ##### 실제로 이런 CAPTCHA를 도입하면 가입률이나 구매율이 떨어진다는 논문이 나올정도다
 
-<img src="./images/chaptcha_image5.png" width="700" height="200" alt="CAPTCHA 이미지5">
-<img src="./images/chaptcha_image6.png" width="700" height="200" alt="CAPTCHA 이미지6">
+![chaptcha_image5](https://github.com/user-attachments/assets/baeb3474-4c7f-4a12-a316-37e878a657f7)  
+![chaptcha_image6](https://github.com/user-attachments/assets/11c90890-569a-4f9e-9904-dcce159312ee)
 
 ### 3. 체크형 CAPTCHA
 
-<img src="./images/chaptcha_image7.png" width="700" height="200" alt="CAPTCHA 이미지7">
+![chaptcha_image7](https://github.com/user-attachments/assets/308a4cc1-2adf-49d9-9ab4-fbabefa13394)  
 
 ##### 또 이런 문제를 다시 보안해서 만든게 이런 체크형 CAPTCHA라고 볼 수 있다
 
@@ -66,11 +66,11 @@
 
 ##### 악명높은 리캡챠2라게 오답률이 상당히 높죠
 
-<img src="./images/chaptcha_image8.png" width="700" height="200" alt="CAPTCHA 이미지8">
+![chaptcha_image8](https://github.com/user-attachments/assets/9f656e9e-94ff-483f-bf62-d8711193d2b9)
 
 ##### 그리고 이미지에서 어디가 버스고 어디가 오토바이고 어디가 사람인지 애매한 경우도 많죠
 
-<img src="./images/chaptcha_image9.png" width="700" height="200" alt="CAPTCHA 이미지9">
+![chaptcha_image9](https://github.com/user-attachments/assets/aa0c9e4f-3862-4eb6-b0e8-a2ef9e1a0a0f)
 
 ##### 사실 저런 캡챠의 맹점이 시각 장애인들이나 시력이 좋지 못한분들을 위해 음성을 제공하는데
 
@@ -90,11 +90,11 @@
 
 ##### 안채워서 통과하는 방법으로 뚫리기도 합니다
 
-<img src="./images/chaptcha_image10.png" width="700" height="200" alt="CAPTCHA 이미지10">
+![chaptcha_image10](https://github.com/user-attachments/assets/4504ec5b-00ff-4405-806e-70e6fb6a28aa)
 
 ### 5. Proof of work
 
-<img src="./images/chaptcha_image11.png" width="700" height="200" alt="CAPTCHA 이미지11">
+![chaptcha_image11](https://github.com/user-attachments/assets/bd86f1e2-46f7-4ca7-bb66-60b2608efc19)
 
 ##### 간단하게 말하자면 제출 할때 파워 그러니까 CPU 해시 연산을 시키는건데 비트코인이라고 생각하면 됩니다.
 
@@ -104,7 +104,7 @@
 
 ### 6. Google ReCAPTCHA V3
 
-<img src="./images/chaptcha_image12.png" width="700" height="200" alt="CAPTCHA 이미지12">
+![chaptcha_image12](https://github.com/user-attachments/assets/b458a583-f0e3-4e9a-a455-725c71b10550)
 
 ##### 요즘 최신 캡챠라고 볼 수 있는데 자동으로 자기가 알아서 체크하고 심지어 아예 아이콘만 띄우고
 
