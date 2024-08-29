@@ -3,10 +3,11 @@
 **Repository for Computer science study.** 
   
 ## Contributors
-<a href="https://github.com/jh-jaehyuk/CS-study/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jh-jaehyuk/CS-study" />
+<a href="https://github.com/Jh-jaehyuk/cs-study/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Jh-jaehyuk/cs-study" />
 </a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## Study members
 | 한재혁 | 김지민 | 이호준 | 정아람 | 최인헌 |
@@ -16,7 +17,7 @@
 
 | 김용현 | 이민재 | 이 근 | 이현석 | 허우영 |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| <img width="160px" src="https://github.com/user-attachments/assets/9f50e7d9-8b34-404e-8582-78477ade903d" /> | <img width="160px" src="https://github.com/user-attachments/assets/09d70752-6b73-4c54-aeec-fff73567ca7e" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/142682399?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/144449816?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/120430842?v=4 />
+| <img width="160px" src="https://github.com/user-attachments/assets/9f50e7d9-8b34-404e-8582-78477ade903d" /> | <img width="160px" src="https://github.com/user-attachments/assets/09d70752-6b73-4c54-aeec-fff73567ca7e" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/142682399?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/144449816?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/120430842?v=4" />
 | [@younghyen7956](https://github.com/younghyen7956) | [@Meue-L](https://github.com/Meue-L) | [@moneyandjelly](https://github.com/moneyandjelly) | [@lleehs](https://github.com/lleehs) | [@heowooyoung](https://github.com/heowooyoung) |
 
 ## Rules
