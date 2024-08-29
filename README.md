@@ -31,6 +31,7 @@
    * OSI 7 Layers
    * API
    * RestAPI
+   * Nginx
    
 2. **[Data Structure (자료구조)](./Data%20Structure)**
    * Queue
