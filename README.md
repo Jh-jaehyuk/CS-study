@@ -20,6 +20,11 @@ Made with [contrib.rocks](https://contrib.rocks).
 | <img width="160px" src="https://github.com/user-attachments/assets/9f50e7d9-8b34-404e-8582-78477ade903d" /> | <img width="160px" src="https://github.com/user-attachments/assets/09d70752-6b73-4c54-aeec-fff73567ca7e" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/142682399?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/144449816?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/120430842?v=4" />
 | [@younghyen7956](https://github.com/younghyen7956) | [@Meue-L](https://github.com/Meue-L) | [@moneyandjelly](https://github.com/moneyandjelly) | [@lleehs](https://github.com/lleehs) | [@heowooyoung](https://github.com/heowooyoung) |
 
+| 박윤서 |
+|:----------:|
+| <img width="160px" src="https://avatars.githubusercontent.com/u/168507730?v=4" /> |
+| [@Yoonseoparkk](https://github.com/yoonseoparkk) |
+
 ## Rules
 1. 개인 사정 및 캠퍼스 사정으로 인해 스터디가 불가능하더라도, **자료는 업로드 해야 합니다.**
 2. **2번 이상 불참시**, 스터디 인원에서 제외하도록 하겠습니다.
