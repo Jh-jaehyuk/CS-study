@@ -45,17 +45,20 @@ Made with [contrib.rocks](https://contrib.rocks).
    * Queue
    * Stack
    * Linked List
-   * Graph(예정)
-    
-3. **[Languages (언어)](./Languages)**
+   * Graph
+
+3. **[Algorithm](./Algorithm)**
+   * Sorting
+
+4. **[Languages (언어)](./Languages)**
    * Python
    * C(C++)
 
-4. **[DevOps](./DevOps)**
+5. **[DevOps](./DevOps)**
    * CI/CD
    * DLLS
 
-5. **[OS (운영 체제)](./OS)**  
+6. **[OS (운영 체제)](./OS)**  
    * What is OS
    * Process & Thread
    * Memory Structure
