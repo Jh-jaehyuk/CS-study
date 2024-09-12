@@ -53,6 +53,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 4. **[Languages (언어)](./Languages)**
    * Python
    * C(C++)
+   * Vue
 
 5. **[DevOps](./DevOps)**
    * CI/CD
