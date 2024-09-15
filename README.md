@@ -42,24 +42,25 @@ Made with [contrib.rocks](https://contrib.rocks).
    * Nginx
    
 2. **[Data Structure (자료구조)](./Data%20Structure)**
+   * Hash
    * Queue
    * Stack
    * Linked List
    * Graph
 
-3. **[Algorithm](./Algorithm)**
+4. **[Algorithm](./Algorithm)**
    * Sorting
 
-4. **[Languages (언어)](./Languages)**
+5. **[Languages (언어)](./Languages)**
    * Python
    * C(C++)
    * Vue
 
-5. **[DevOps](./DevOps)**
+6. **[DevOps](./DevOps)**
    * CI/CD
    * DLLS
 
-6. **[OS (운영 체제)](./OS)**  
+7. **[OS (운영 체제)](./OS)**  
    * What is OS
    * Process & Thread
    * Memory Structure
