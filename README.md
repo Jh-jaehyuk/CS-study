@@ -48,6 +48,9 @@ Made with [contrib.rocks](https://contrib.rocks).
    * Linked List
    * Graph
 
+3. **[Database](./Database)**
+    * Redis
+
 4. **[Algorithm](./Algorithm)**
    * Sorting
 
