@@ -50,6 +50,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 3. **[Database](./Database)**
     * What is Database
+    * What is VectorDB
     * Redis
 
 4. **[Algorithm](./Algorithm)**
